@@ -1,0 +1,31 @@
+.add-event-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  .event-list-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+        font-family: 'Kanit', sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
