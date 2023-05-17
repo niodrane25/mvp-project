@@ -73,6 +73,7 @@ function deleteEvent(eventId) {
     });
 }
 
+
 function displayEvents() {
   fetch('/events')
     .then(response => response.json())
