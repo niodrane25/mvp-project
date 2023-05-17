@@ -1,3 +1,5 @@
+//test
+
 // Get references to the form and event container
 const addEventForm = document.getElementById('add-event-form');
 const eventContainer = document.getElementById('event-container');
