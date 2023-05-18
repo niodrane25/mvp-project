@@ -57,6 +57,7 @@ function addEvent() {
       // Handle the error if the event storage fails
       console.error('Error storing event:', error);
     });
+}
 
 function deleteEvent(eventId) {
   fetch(`/events/${eventId}`, {
